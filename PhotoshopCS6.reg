@@ -1,0 +1,93 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Photoshop]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Photoshop\60.0]
+"FreeBeforeSlopAdjust"=dword:00380000
+"FreeSpace"=dword:001e84cc
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Photoshop\60.0\ApplicationPath]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Photoshop\60.0\PluginPath]
+
+[HKEY_CURRENT_USER\Software\Adobe]
+
+[HKEY_CURRENT_USER\Software\Adobe\07307EA3C894]
+@="9235BEF974C20E823B612F5D58DA429E12C5F88C"
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles]
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles\Usage]
+"GUID"="7e5034e3-a5a2-41e9-9470-5546a37169a2"
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles\Usage\CS6]
+"Date"="2023-09-27T13:29:23Z"
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles\Usage\CS6Headlights]
+"RemindMeLaterDate"=dword:65391833
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles\Usage\CS6Headlights\Adobe Photoshop CS6]
+"Prerelease"=dword:00000000
+"Build"="13.0 20120315.r.428 2012/03/15:21:00:00"
+"LaunchCounter"=dword:00000005
+
+[HKEY_CURRENT_USER\Software\Adobe\IAC]
+"UserID"="9B9F0CEC4BD1B394A6A608CD1B6CECF"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser]
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU]
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop]
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList]
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2023-10-05T10:34:25.7972Z]
+@="C:\\Users\\2° ano\\Documents\\Imagens_Design\\Imag02\\01_Manchas-Escuras.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2023-10-05T10:46:35.620Z]
+@="C:\\Users\\2° ano\\Documents\\Imagens_Design\\Imag02\\SARDAS_FAKE.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2023-10-05T10:56:38.5601Z]
+@="C:\\Users\\2° ano\\Documents\\Imagens_Design\\Imag2\\SARDAS_FAKE.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2023-10-05T11:35:37.7454Z]
+@="C:\\Users\\2° ano\\Documents\\Imagens_Design\\Imag02\\sardas_2_instagram.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2023-10-06T10:40:34.1024Z]
+@="C:\\Users\\2° ano\\Documents\\Imagens_Design\\Imag2\\sardas_2_instagram.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2023-10-06T11:05:17.9456Z]
+@="C:\\Users\\2° ano\\Documents\\Imagens_Design\\Imag2\\sardas_2_Copia.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2023-10-06T11:07:59.8740Z]
+@="C:\\Users\\2° ano\\Documents\\Imagens_Design\\Imag2\\sardas_2_.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2023-10-06T11:18:15.74Z]
+@="C:\\Users\\2° ano\\Documents\\Imagens_Design\\Imag02\\sardas05.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2023-10-06T11:28:29.8831Z]
+@="C:\\Users\\2° ano\\Documents\\Imagens_Design\\Imag02\\post_04.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2023-10-06T14:51:24.9040Z]
+@="C:\\Users\\2° ano\\Documents\\Imagens_Design\\Imag02\\sardas7.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2023-10-06T14:53:11.6671Z]
+@="C:\\Users\\2° ano\\Documents\\Imagens_Design\\Imag2\\sardas_01.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2023-10-06T15:20:44.1083Z]
+@="C:\\Users\\2° ano\\Documents\\Imagens_Design\\Imag02\\sardas6.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\Photoshop]
+
+[HKEY_CURRENT_USER\Software\Adobe\Photoshop\60.0]
+"uiLanguageKey CS6"="en_US"
+"oldPaletteFontTypeKey CS6"=dword:00000000
+"MemoryUsage"=dword:0000003c
+"ShowStatusWindow"=dword:00000001
+"AppWindowPosition"="[1470,204,1167,667]"
+
+[HKEY_CURRENT_USER\Software\Adobe\Photoshop\60.0\VisitedDirs]
+"STARTUPIMAGEDIRECTORY"="C:\\Users\\2° ano\\Documents\\Imagens_Design\\Imag02\\"
